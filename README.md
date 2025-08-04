@@ -21,3 +21,19 @@ This is a **private repository** shared with a trusted circle. If you’re readi
 
 Each story is stored as a separate `.md` or `.txt` file with the date of origin where possible. Some may include editorial notes or revision drafts.
 
+
+## 🛡️ Licensing
+
+All content in this repository is © [Your Name or Pseudonym]. These works may not be copied, redistributed, or used without explicit permission.
+
+## 🕊️ Why This Exists
+
+To remember.  
+To reflect.  
+To heal.  
+To document truth—unfiltered and unmarketed.
+
+## 🙏 Final Note
+
+These stories are not meant to impress—they're meant to be *witnessed*.
+
